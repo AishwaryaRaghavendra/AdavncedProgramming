@@ -4,4 +4,4 @@ Use cases of Object Oriented Programming (OOP) and Standard Template Library (ST
 
 Coded independantly with my ideas for my academic laboratory sessions
 
-Doxygen Sytle Documentation viewed as CSS styled HTML files.
+Doxygen format documentation viewed as CSS styled HTML files.
